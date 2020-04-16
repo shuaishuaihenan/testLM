@@ -10,7 +10,7 @@
                 <dict>
                     <key>kind</key>
                     <string>software-package</string>
-                    <key>url</key>
+                    <key>https://github.com/shuaishuaihenan/testLM/blob/master/im_ios.ipa</key>
                     <string>ipa的下载地址</string>
                 </dict>
                 <dict>
